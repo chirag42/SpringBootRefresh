@@ -1,0 +1,6 @@
+com/example/maven_app/Model/User.class
+com/example/maven_app/HelloWorldController.class
+com/example/maven_app/App.class
+com/example/maven_app/Service/UserService.class
+com/example/maven_app/Controller/UserController.class
+com/example/maven_app/Repository/UserRepository.class
